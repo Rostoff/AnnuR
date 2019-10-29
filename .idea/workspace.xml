@@ -4,7 +4,6 @@
     <list default="true" id="edb46761-80dc-4ac1-86d3-da65f47eae84" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/annu-r-front/src/app/services/contacts.service.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/annu-r-front/src/model/model.contact.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/annu-r-front" beforeDir="false" afterPath="$PROJECT_DIR$/annu-r-front" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/annu-r-front/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/annu-r-front/angular.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/annu-r-front/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/annu-r-front/package-lock.json" afterDir="false" />
