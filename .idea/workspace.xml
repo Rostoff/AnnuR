@@ -4,6 +4,8 @@
     <list default="true" id="edb46761-80dc-4ac1-86d3-da65f47eae84" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/annu-r-front/src/app/services/contacts.service.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/annu-r-front/src/model/model.contact.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/annu-r-front" beforeDir="false" afterPath="$PROJECT_DIR$/annu-r-front" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/annu-r-front/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/annu-r-front/angular.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/annu-r-front/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/annu-r-front/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/annu-r-front/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/annu-r-front/package.json" afterDir="false" />
@@ -88,7 +90,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/annu-r-front" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -254,6 +256,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2771855" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
