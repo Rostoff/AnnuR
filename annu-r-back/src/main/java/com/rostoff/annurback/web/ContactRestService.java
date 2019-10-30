@@ -28,8 +28,6 @@ public class ContactRestService {
     }
 
 
-
-
     //Ajouter un élément
     @PostMapping(value="/contacts")
     public Contact addContact(@RequestBody Contact c){
